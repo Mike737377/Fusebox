@@ -1,0 +1,1 @@
+Playground for working with the circuit breaker pattern 
